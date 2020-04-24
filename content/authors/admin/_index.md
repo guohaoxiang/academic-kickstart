@@ -15,7 +15,6 @@ role: Ph.D. student in Computer Graphhics
 # Organizations/Affiliations
 organizations:
 - name: Tsinghua University
-  url: "http://www.castu.tsinghua.edu.cn/publish/casen/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer graphics, geometry processing and 3D vision.
@@ -27,12 +26,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Graphics
-    institution: Tsinghua University
-    year: 2017-
   - course: BSc in Applied Math
     institution: University of Science and Technology of China
-    year: 2013-2017
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk
 - icon: github
   icon_pack: fab
   link: https://github.com/guohaoxiang
@@ -64,6 +60,6 @@ email: ""
 # - Visitors
 ---
 
-Haoxiang Guo is a third-year Ph.D student of Institute for Advanced Study, Tsinghua University, supervised by Dr. Yang Liu and Dr. Baining Guo. Before that, I received my B.S. Degree in Mathematics from School of the Gifted Young, University of Science and Technology of China.
+Haoxiang Guo is a third-year Ph.D student of [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Yang Liu](https://xueyuhanlang.github.io/) and [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). Before that, I received my B.S. Degree in Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 My research interests include computer graphics, geometry processing and 3D vision.
