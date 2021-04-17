@@ -17,7 +17,7 @@ organizations:
 - name: Tsinghua University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer graphics, geometry processing and 3D vision.
+bio: My research interests include geometry processing, 3D reconstruction and CAD modeling.
 
 interests:
 - Computer Graphics
@@ -60,6 +60,6 @@ email: ""
 # - Visitors
 ---
 
-Haoxiang Guo(郭昊翔) is a third-year Ph.D student of [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Yang Liu](https://xueyuhanlang.github.io/) and [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). Before that, I received my B.S. Degree in Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
+Haoxiang Guo(郭昊翔) is a fourth-year Ph.D student of [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Yang Liu](https://xueyuhanlang.github.io/) and [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). Before that, I received my B.S. Degree in Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
-My research interests include computer graphics, geometry processing and 3D vision.
+My research interests include geometry processing, 3D reconstruction and CAD modeling.
