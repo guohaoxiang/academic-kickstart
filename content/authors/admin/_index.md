@@ -60,7 +60,7 @@ email: ""
 # - Visitors
 ---
 
-Haoxiang Guo(郭昊翔) is a fourth-year Ph.D student of [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). I am fortunate to work with [Dr. Yang Liu](https://xueyuhanlang.github.io/), [Dr. Hao Pan](http://haopan.github.io/) and [Dr. Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/) at Microsoft Research Asia during my Ph.D period. Before that, I received my B.S. Degree in Applied Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
+Haoxiang Guo(郭昊翔) is a final-year Ph.D student of [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). I am fortunate to work with [Dr. Yang Liu](https://xueyuhanlang.github.io/), [Dr. Hao Pan](http://haopan.github.io/) and [Dr. Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/) at Microsoft Research Asia during my Ph.D period. Before that, I received my B.S. Degree in Applied Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 <!-- My research interests include geometry processing, 3D reconstruction and CAD modeling. -->
 I focus on the modeling, reconstruction and analysis of 3D shapes, especially CAD models.

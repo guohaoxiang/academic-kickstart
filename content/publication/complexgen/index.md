@@ -53,11 +53,11 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://haopan.github.io/papers/ComplexGen.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/guohaoxiang/ComplexGen"
 url_dataset = ""
-url_project = ""
+url_project = "http://haopan.github.io/complexgen.html"
 url_slides = ""
 url_video = ""
 url_poster = ""
