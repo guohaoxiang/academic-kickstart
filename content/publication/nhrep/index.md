@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/2209.10191"
 url_preprint = ""
 url_code = "https://github.com/guohaoxiang/NH-Rep"
 url_dataset = ""
