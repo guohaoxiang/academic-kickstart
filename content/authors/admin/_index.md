@@ -63,7 +63,8 @@ email: ""
 # - Visitors
 ---
 
-This is Haoxiang Guo(郭昊翔), currently I am working at [miHoYo](https://www.mihoyo.com/). I have obtained my Ph.D. degree [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). I was fortunate to work with [Dr. Yang Liu](https://xueyuhanlang.github.io/), [Dr. Hao Pan](http://haopan.github.io/) and [Dr. Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/) at Microsoft Research Asia during my Ph.D period. Before that, I received my B.S. Degree in Applied Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
+<!-- This is Haoxiang Guo(郭昊翔), currently I am working at [miHoYo](https://www.mihoyo.com/).  -->
+Welcome to my personal page! I have obtained my Ph.D. degree [Institute for Advanced Study](http://www.castu.tsinghua.edu.cn/publish/casen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Dr. Baining Guo](https://www.microsoft.com/en-us/research/people/bainguo/). I was fortunate to work with [Dr. Yang Liu](https://xueyuhanlang.github.io/), [Dr. Hao Pan](http://haopan.github.io/) and [Dr. Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/) at Microsoft Research Asia during my Ph.D period. Before that, I received my B.S. Degree in Applied Mathematics from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 <!-- My research interests include geometry processing, 3D reconstruction and CAD modeling. -->
 I focus on the modeling, reconstruction and analysis of 3D shapes, especially CAD models.
