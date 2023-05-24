@@ -1,5 +1,5 @@
 +++
-title = "NH-Rep: Neural Halfspace Representations for Implicit Conversion of B-Rep Solids"
+title = "Implicit Conversion of Manifold B-Rep Solids by Neural Halfspace Representation"
 date = 2022-09-07
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
